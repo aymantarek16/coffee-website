@@ -9,7 +9,6 @@
   width: 98.9vw;
   background-color: transparent;
   position: absolute;
-  
 }
 
 .loader > div {
@@ -609,11 +608,6 @@ section {
   color: var(--main-color);
 }
 
-
-
-
-
-
 /* media queries  */
 @media (max-width: 991px) {
   html {
@@ -680,5 +674,3 @@ section {
     font-size: 50%;
   }
 }
-
-
